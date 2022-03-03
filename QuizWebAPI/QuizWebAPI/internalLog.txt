@@ -1,0 +1,65 @@
+2022-03-03 17:21:33.5095 Info Message Template Auto Format enabled
+2022-03-03 17:21:33.5331 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-03 17:21:33.5947 Info Adding target FileTarget(Name=alldata)
+2022-03-03 17:21:33.6075 Info Adding target FileTarget(Name=otherFile-web)
+2022-03-03 17:21:33.6487 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=43, FilePath=D:\Project\quiz\QuizWebAPI\QuizWebAPI\bin\Debug\net5.0\nlog.config
+2022-03-03 17:23:19.4507 Info Message Template Auto Format enabled
+2022-03-03 17:23:19.4662 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-03 17:23:19.5132 Info Adding target FileTarget(Name=alldata)
+2022-03-03 17:23:19.5132 Info Adding target FileTarget(Name=otherFile-web)
+2022-03-03 17:23:19.5903 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=43, FilePath=D:\Project\quiz\QuizWebAPI\QuizWebAPI\bin\Debug\net5.0\nlog.config
+2022-03-03 17:31:13.9482 Info Message Template Auto Format enabled
+2022-03-03 17:31:13.9663 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-03 17:31:14.0375 Info Adding target FileTarget(Name=alldata)
+2022-03-03 17:31:14.0375 Info Adding target FileTarget(Name=otherFile-web)
+2022-03-03 17:31:14.0982 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=43, FilePath=D:\Project\quiz\QuizWebAPI\QuizWebAPI\bin\Debug\net5.0\nlog.config
+2022-03-03 17:34:05.0367 Info Message Template Auto Format enabled
+2022-03-03 17:34:05.0610 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-03 17:34:05.1618 Info Adding target FileTarget(Name=alldata)
+2022-03-03 17:34:05.1747 Info Adding target FileTarget(Name=otherFile-web)
+2022-03-03 17:34:05.2532 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=43, FilePath=D:\Project\quiz\QuizWebAPI\QuizWebAPI\bin\Debug\net5.0\nlog.config
+2022-03-03 17:41:12.9728 Info Message Template Auto Format enabled
+2022-03-03 17:41:12.9851 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-03 17:41:13.0215 Info Adding target FileTarget(Name=alldata)
+2022-03-03 17:41:13.0293 Info Adding target FileTarget(Name=otherFile-web)
+2022-03-03 17:41:13.0649 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=43, FilePath=D:\Project\quiz\QuizWebAPI\QuizWebAPI\bin\Debug\net5.0\nlog.config
+2022-03-03 17:42:25.0345 Info Message Template Auto Format enabled
+2022-03-03 17:42:25.0634 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-03 17:42:25.1103 Info Adding target FileTarget(Name=alldata)
+2022-03-03 17:42:25.1198 Info Adding target FileTarget(Name=otherFile-web)
+2022-03-03 17:42:25.1571 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=43, FilePath=D:\Project\quiz\QuizWebAPI\QuizWebAPI\bin\Debug\net5.0\nlog.config
+2022-03-03 17:45:38.0899 Info Message Template Auto Format enabled
+2022-03-03 17:45:38.1025 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-03 17:45:38.1396 Info Adding target FileTarget(Name=alldata)
+2022-03-03 17:45:38.1492 Info Adding target FileTarget(Name=otherFile-web)
+2022-03-03 17:45:38.2030 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=43, FilePath=D:\Project\quiz\QuizWebAPI\QuizWebAPI\bin\Debug\net5.0\nlog.config
+2022-03-03 17:54:19.3659 Info Message Template Auto Format enabled
+2022-03-03 17:54:19.3659 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-03 17:54:19.4197 Info Adding target FileTarget(Name=alldata)
+2022-03-03 17:54:19.4298 Info Adding target FileTarget(Name=otherFile-web)
+2022-03-03 17:54:19.4813 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=43, FilePath=D:\Project\quiz\QuizWebAPI\QuizWebAPI\bin\Debug\net5.0\nlog.config
+2022-03-03 22:55:39.6046 Info Message Template Auto Format enabled
+2022-03-03 22:55:39.6327 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-03 22:55:39.7138 Info Adding target FileTarget(Name=alldata)
+2022-03-03 22:55:39.7367 Info Adding target FileTarget(Name=otherFile-web)
+2022-03-03 22:55:39.8156 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=43, FilePath=D:\Project\quiz\QuizWebAPI\QuizWebAPI\bin\Debug\net5.0\nlog.config
+2022-03-03 22:58:30.7422 Info Message Template Auto Format enabled
+2022-03-03 22:58:30.7648 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-03 22:58:30.8631 Info Adding target FileTarget(Name=alldata)
+2022-03-03 22:58:30.9333 Info Adding target FileTarget(Name=otherFile-web)
+2022-03-03 22:58:31.0791 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=43, FilePath=D:\Project\quiz\QuizWebAPI\QuizWebAPI\bin\Debug\net5.0\nlog.config
+2022-03-03 23:01:41.2330 Info Message Template Auto Format enabled
+2022-03-03 23:01:41.2517 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-03 23:01:41.3407 Info Adding target FileTarget(Name=alldata)
+2022-03-03 23:01:41.3592 Info Adding target FileTarget(Name=otherFile-web)
+2022-03-03 23:01:41.4059 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=43, FilePath=D:\Project\quiz\QuizWebAPI\QuizWebAPI\bin\Debug\net5.0\nlog.config
+2022-03-04 02:38:19.8611 Info Message Template Auto Format enabled
+2022-03-04 02:38:19.8782 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-04 02:38:19.9386 Info Adding target FileTarget(Name=alldata)
+2022-03-04 02:38:19.9491 Info Adding target FileTarget(Name=otherFile-web)
+2022-03-04 02:38:20.0021 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=43, FilePath=D:\Project\quiz\QuizWebAPI\QuizWebAPI\bin\Debug\net5.0\nlog.config
+2022-03-04 02:59:45.1009 Info Message Template Auto Format enabled
+2022-03-04 02:59:45.1373 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-04 02:59:45.2594 Info Adding target FileTarget(Name=alldata)
+2022-03-04 02:59:45.2872 Info Adding target FileTarget(Name=otherFile-web)
+2022-03-04 02:59:45.3840 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=43, FilePath=D:\Project\Assignment\quiz\QuizWebAPI\QuizWebAPI\bin\Debug\net5.0\nlog.config

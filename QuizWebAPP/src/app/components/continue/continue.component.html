@@ -1,0 +1,19 @@
+<div class="container">
+    <div class="mb-3 row mt-3"><h4>Continue Quiz</h4></div>
+    <form [formGroup]="userForm" (ngSubmit)="onSubmit()">
+        <div class="mb-3 row">
+            <label class="col-sm-2 col-form-label">Name</label>
+            <div class="col-sm-3">
+              <input type="text" class="form-control" formControlName="userName" required>
+            </div>
+        </div>
+
+        <div class="mb-3 row">
+            <label class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-3">
+                <button type="submit" class="btn btn-primary" >Go</button>
+            </div>
+        </div>
+        
+    </form>
+</div>
